@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "prisma": "^2.29.1",
-    "@prisma/client": "^2.29.1",
+    "@prisma/client": "^2.30.3",
     "@types/morgan": "^1.9.3",
     "express": "~4.16.1",
     "http-status-codes": "^2.1.4",
